@@ -1,0 +1,12 @@
+[mcp_servers.local-doc-context]
+command = "docker"
+args = [
+  "run",
+  "-i",
+  "--rm",
+  "--env-file", ".env",
+  "-v", "C:\\Users\\73184\\Desktop\\agent-mcp:/app",
+  "-w", "/app",
+  "local-doc-context-mcp",
+  "python", "-m", "app.mcp"
+]
