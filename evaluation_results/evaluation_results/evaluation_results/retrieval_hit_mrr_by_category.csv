@@ -1,0 +1,41 @@
+top_k,category,hits,total,hit_rate,mrr
+1,Computer Vision,1,1,1.0,1.0
+1,Data Processing,1,1,1.0,1.0
+1,Deep Learning,2,2,1.0,1.0
+1,Interpretability,1,1,1.0,1.0
+1,MLOps,1,1,1.0,1.0
+1,Machine Learning,3,4,0.75,0.75
+1,NLP,1,1,1.0,1.0
+1,Numerical Computing,1,1,1.0,1.0
+1,Visualization,2,2,1.0,1.0
+1,Web Scraping,1,1,1.0,1.0
+3,Computer Vision,1,1,1.0,1.0
+3,Data Processing,1,1,1.0,1.0
+3,Deep Learning,2,2,1.0,1.0
+3,Interpretability,1,1,1.0,1.0
+3,MLOps,1,1,1.0,1.0
+3,Machine Learning,4,4,1.0,0.875
+3,NLP,1,1,1.0,1.0
+3,Numerical Computing,1,1,1.0,1.0
+3,Visualization,2,2,1.0,1.0
+3,Web Scraping,1,1,1.0,1.0
+5,Computer Vision,1,1,1.0,1.0
+5,Data Processing,1,1,1.0,1.0
+5,Deep Learning,2,2,1.0,1.0
+5,Interpretability,1,1,1.0,1.0
+5,MLOps,1,1,1.0,1.0
+5,Machine Learning,4,4,1.0,0.875
+5,NLP,1,1,1.0,1.0
+5,Numerical Computing,1,1,1.0,1.0
+5,Visualization,2,2,1.0,1.0
+5,Web Scraping,1,1,1.0,1.0
+10,Computer Vision,1,1,1.0,1.0
+10,Data Processing,1,1,1.0,1.0
+10,Deep Learning,2,2,1.0,1.0
+10,Interpretability,1,1,1.0,1.0
+10,MLOps,1,1,1.0,1.0
+10,Machine Learning,4,4,1.0,0.875
+10,NLP,1,1,1.0,1.0
+10,Numerical Computing,1,1,1.0,1.0
+10,Visualization,2,2,1.0,1.0
+10,Web Scraping,1,1,1.0,1.0

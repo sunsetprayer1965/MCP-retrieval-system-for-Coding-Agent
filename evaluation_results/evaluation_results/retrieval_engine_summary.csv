@@ -1,0 +1,13 @@
+engine_name,engine_type,retrieval_mode,top_k,total_queries,hits,hit_rate,mrr,index_coverage,misses
+rag_vector_bm25,rag,vector_bm25,1,15,0,0.0,0.0,0.0,15
+rag_vector_bm25,rag,vector_bm25,3,15,0,0.0,0.0,0.0,15
+rag_vector_bm25,rag,vector_bm25,5,15,0,0.0,0.0,0.0,15
+rag_vector_bm25,rag,vector_bm25,10,15,0,0.0,0.0,0.0,15
+rag_vector_only,rag,vector_only,1,15,0,0.0,0.0,0.0,15
+rag_vector_only,rag,vector_only,3,15,1,0.0667,0.0667,0.0667,14
+rag_vector_only,rag,vector_only,5,15,0,0.0,0.0,0.0,15
+rag_vector_only,rag,vector_only,10,15,0,0.0,0.0,0.0,15
+simple_vector,simple,vector_only,1,15,9,0.6,0.6,0.6,6
+simple_vector,simple,vector_only,3,15,0,0.0,0.0,0.0,15
+simple_vector,simple,vector_only,5,15,0,0.0,0.0,0.0,15
+simple_vector,simple,vector_only,10,15,0,0.0,0.0,0.0,15
